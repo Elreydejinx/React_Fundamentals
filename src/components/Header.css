@@ -1,0 +1,13 @@
+.header {
+    background-image: url('src/components/image.png');
+    background-size: cover;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.header-content {
+    text-align: center;
+}
